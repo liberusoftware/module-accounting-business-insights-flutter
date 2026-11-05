@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-business-insights-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-business-insights",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_business_insights_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/business-insights.md",
+  "presentationPlan": "projects/accounting/flutter/business-insights.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
